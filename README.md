@@ -1,6 +1,8 @@
 # BinCentive-SIH-2020-
 
-* Awarded 1st position and participated as Team Leader
+**⚠️ WARNING! This repository contains just a preview of the actual project, for reasons of confidentiality of the source code.**
+
+**Awarded 1st position and participated as Team Leader**
 
 “Bin-centive”, propounds an eminently scalable solution that integrates android application and web portal to encourage the usage of bins and promotes the “Swachh Bharat” mission. The incentive mechanism uses android application and SMS services, instead of printed tokens, so as to promote the idea of “Digital India”.
 
